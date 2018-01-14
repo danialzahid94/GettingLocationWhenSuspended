@@ -1,7 +1,7 @@
 Getting Location Updates for iOS 7 and 8 Even when the App is Killed/Terminated/Suspended
 ============================
 
-A couple months ago, I found a way to get the location update from iOS 7 and 8 even when the app is not 
+A clean way to get location updates from iOS 7 and 8 even when the app is not 
 active on foreground and not in the background. Yes, you may get the GPS coordinates from the iOS devices 
 even when the app is killed/terminated either by the user or the iOS itself.
 
@@ -25,12 +25,3 @@ When you see the key “UIApplicationLaunchOptionsLocationKey” under “Resume
 For the detail information, Please read: [Getting Location Updates for iOS 7 and 8 when the App is Killed/Terminated/Suspended]
 (http://mobileoop.com/getting-location-updates-for-ios-7-and-8-when-the-app-is-killedterminatedsuspended 
 "Getting Location Updates for iOS 7 and 8 when the App is Killed/Terminated/Suspended").
-
-Personal Note
-==============
-Currently, I am working as a [Senior iOS Developer in Singapore](http://mobileoop.com/ "Senior iOS Developer in Singapore"). I might not be free to keep this solution updated. Please check the changes on the latest iOS to make sure that the solutions works well. Thanks.
-
-
-Thanks.
-
-Ricky
